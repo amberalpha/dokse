@@ -1,25 +1,45 @@
 [[docs]]
   name = "Prologue"
   weight = 10
-  identifier = "prologue"
-  url = "/docs/prologue/"
+  identifier = "B0"
+  url = "/docs/B0/"
+[[docs]]
+  name = "Indices"
+  weight = 20
+  identifier = "B1"
+  url = "/docs/B1/"
 
 [[docs]]
-  name = "Help"
-  weight = 60
-  identifier = "help"
-  url = "/docs/help/"
+  name = "Factors"
+  weight = 30
+  identifier = "B2"
+  url = "/docs/B2/"
 
+[[docs]]
+  name = "Forecasts"
+  weight = 40
+  identifier = "B3"
+  url = "/docs/B3/"
+
+[[docs]]
+  name = "New Build"
+  weight = 50
+  identifier = "B4"
+  url = "/docs/B4/"
 [[main]]
-  name = "Docs"
-  url = "/docs/prologue/introduction/"
-# url = "/docs/1.0/prologue/introduction/"
+  name = "Models"
+  url = "/docs/B2/B21/"
   weight = 10
 
 [[main]]
   name = "Blog"
   url = "/blog/"
   weight = 20
+
+[[main]]
+  name = "About"
+  url = "/D/D1/D11/"
+  weight = 30
 
 [[social]]
   name = "GitHub"

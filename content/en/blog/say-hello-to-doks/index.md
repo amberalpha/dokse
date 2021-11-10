@@ -1,11 +1,13 @@
 ---
-title: "Say hello to Doks 👋"
-description: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-date: 2020-11-04T09:19:42+01:00
-lastmod: 2020-11-04T09:19:42+01:00
+title: "Say Hello to Doks"
+description: ""
+lead: ""
+date: 2021-11-08T19:12:56Z
+lastmod: 2021-11-08T19:12:56Z
 draft: false
 weight: 50
-images: ["say-hello-to-doks.png"]
-contributors: ["Henk Verlinde"]
+images: ["say-hello-to-doks.jpg"]
+contributors: []
 ---
+
+{{< img src="say-hello-to-doks.png" alt="Say Hello to Doks" caption="Say Hello to Doks" class="wide" >}}
