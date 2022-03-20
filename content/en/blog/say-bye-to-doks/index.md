@@ -10,4 +10,4 @@ images: ["blogpic.png"]
 contributors: []
 ---
 
-{{< img src="blogpic.png" alt="factor cycle" caption="Say Hi to Doks" class="narrow" >}}
+{{< img src="blogpic.png" alt="factor cycle" caption="Say Ciao to Doks" class="narrow" >}}
