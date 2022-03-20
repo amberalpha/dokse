@@ -1,43 +1,33 @@
 [[docs]]
-  name = "Prologue"
+  name = "B1"
   weight = 10
-  identifier = "B0"
-  url = "/docs/B0/"
-[[docs]]
-  name = "Indices"
-  weight = 20
   identifier = "B1"
   url = "/docs/B1/"
 
 [[docs]]
-  name = "Factors"
-  weight = 30
+  name = "B2"
+  weight = 60
   identifier = "B2"
   url = "/docs/B2/"
 
 [[docs]]
-  name = "Forecasts"
-  weight = 40
+  name = "B3"
+  weight = 70
   identifier = "B3"
   url = "/docs/B3/"
 
-[[docs]]
-  name = "New Build"
-  weight = 50
-  identifier = "B4"
-  url = "/docs/B4/"
 [[main]]
-  name = "Models"
+  name = "B"
   url = "/docs/B2/B21/"
   weight = 10
 
 [[main]]
-  name = "Blog"
+  name = "C"
   url = "/blog/"
   weight = 20
 
 [[main]]
-  name = "About"
+  name = "D"
   url = "/D/D1/D11/"
   weight = 30
 
